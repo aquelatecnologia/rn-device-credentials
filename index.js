@@ -1,3 +1,5 @@
-import RNDeviceCredentials from './src';
 
+import { NativeModules } from 'react-native';
+
+const { RNDeviceCredentials } = NativeModules;
 export default RNDeviceCredentials;
