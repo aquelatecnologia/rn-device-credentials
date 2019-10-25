@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://ithub.com/aquelatecnologia/rn-device-credentials.git"
+    "url": "https://github.com/aquelatecnologia/rn-device-credentials.git"
   },
   "peerDependencies": {
     "react-native": "^0.60.0"
