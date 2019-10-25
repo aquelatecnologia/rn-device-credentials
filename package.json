@@ -1,6 +1,6 @@
 {
   "name": "rn-device-credentials",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com/aquelatecnologia/rn-device-credentials.git"
+    "url": "https://ithub.com/aquelatecnologia/rn-device-credentials.git"
   },
   "peerDependencies": {
     "react-native": "^0.60.0"
